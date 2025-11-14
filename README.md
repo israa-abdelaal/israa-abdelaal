@@ -21,8 +21,8 @@ Hi! I'm **Israa Abdelaal**, a passionate **Data Analyst** who loves transforming
 
 <p align="center">
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python" width="100"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Microsoft_SQL_Server_Logo.svg" alt="Microsoft SQL Server" width="100"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Power_BI_logo.svg" alt="Power BI" width="100"/>
+<img src="https://toppng.com/free-image/sql-server-logo-PNG-free-PNG-Images_34203.png" alt="Microsoft SQL Server Logo" width="100" />
+<img src="https://logo.svgcdn.com/logos/microsoft-power-bi.svg" alt="Power BI Logo" width="100" />
 <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" alt="GitHub" width="100"/>
 </p>
 
