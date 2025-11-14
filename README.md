@@ -21,7 +21,7 @@ Hi! I'm **Israa Abdelaal**, a passionate **Data Analyst** who loves transforming
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/SQL-005C84?logo=Microsoft SQL Server&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Microsoft%20SQL-005C84?logo=Microsoft%20SQL%20Server&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?logo=powerbi&logoColor=black&style=for-the-badge" />
   <img src="https://img.shields.io/badge/Excel-217346?logo=microsoftexcel&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" />
