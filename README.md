@@ -1,48 +1,75 @@
-# 💫 About Me:
-# 🙋‍♀️ Hi, I'm Israa Abdelaal  
-### 🎯 Data Analyst | Google Certified | SQL • Python • Power BI • Excel
+<!-- Banner -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Israa%20Abdelaal&fontAlign=50&color=0:8EC5FC,100:E0C3FC&fontColor=ffffff&fontSize=60&animation=twinkling" />
+</p>
 
-Welcome to my GitHub profile!  
-I’m a data analyst passionate about transforming raw data into meaningful insights.
-
----
-
-## 📊 Skills & Tools  
-- **Excel** (Advanced formulas, dashboards)  
-- **SQL** (Joins, Window Functions, Data Cleaning)  
-- **Python** (Pandas – NumPy – Matplotlib)  
-- **Power BI** (Data modeling – DAX – Visualizations)  
-- **Data Cleaning & Visualization**  
-- **Google Data Analytics Certified**
+<h2 align="center">✨ Data Analyst | Google Certified | Python • SQL • Power BI • Excel ✨</h2>
 
 ---
 
-## 📁 Featured Projects  
-🔹 **Sales Dashboard – Power BI**  
-Interactive dashboard with KPIs, trends, and drill-through analysis.  
+## 👋 About Me
+Hi! I'm **Israa Abdelaal**, a passionate **Data Analyst** who loves transforming messy data into clear, meaningful insights.
 
-🔹 **Data Cleaning with Python**  
-Cleaning, transforming, and analyzing datasets using Pandas.  
-
-🔹 **SQL Business Insights Project**  
-Complex queries extracting trends & KPIs.
+🎓 **Google Data Analytics Certified**  
+📊 Skilled in: Python, SQL, Power BI, Excel  
+📈 Interested in: Dashboards, Data Cleaning, Business Insights  
+🧠 Always learning & exploring new tools in data analysis
 
 ---
 
-## 📫 Contact  
-- **Email:** israaomohamed373@gmail.com  
-- **[LinkedIn:** https://www.linkedin.com/in/israa-abdelaal](https://www.linkedin.com/in/israa-mohamed-metwally/)
+## 🛠️ Tools & Technologies
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/SQL-005C84?logo=postgresql&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?logo=powerbi&logoColor=black&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Excel-217346?logo=microsoftexcel&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" />
+</p>
 
 ---
 
-⭐ *Feel free to explore my repositories or reach out for collaboration.*
+## 📂 Featured Projects
+
+### 🔹 **📊 Power BI Sales Dashboard**
+Interactive dashboard with KPIs, trends, and forecasting.
+
+### 🔹 **🐍 Python Cleaning & EDA Project**
+Using Pandas + Matplotlib to clean and explore real-world datasets.
+
+### 🔹 **🗄 SQL Business Insights**
+Advanced SQL queries (Joins, CTEs, Window Functions) to answer business questions.
+
+✨ *I can help you highlight these projects when you upload them.*
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=israa-abdelaal&show_icons=true&theme=react&hide_border=true" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=israa-abdelaal&layout=compact&theme=react&hide_border=true" height="160" />
+</p>
+
+---
+
+## 🤝 Connect with Me
+
+<p align="center">
+  <a href="mailto:israaomohamed373@gmail.com">
+    <img src="https://img.shields.io/badge/Email-8B89CC?logo=gmail&logoColor=white&style=for-the-badge" />
+  </a>
+  <a href="[https://www.linkedin.com/in/israa-abdelaal](https://www.linkedin.com/in/israa-mohamed-metwally/)">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  💡 *Thanks for visiting my profile! Feel free to explore my repositories or reach out for collaboration.*  
+</p>
 
 
-
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/israa.metwally) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/israametwaly) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:israamohamed373@gamil.com) 
-
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
 
