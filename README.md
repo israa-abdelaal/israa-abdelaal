@@ -21,7 +21,7 @@ Hi! I'm **Israa Abdelaal**, a passionate **Data Analyst** who loves transforming
 
 <p align="center">
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python" width="40"/>
-  <img src="https://img.icons8.com/color/1200/microsoft-sql-server.jpg" alt="SQL Server Logo" width="50"/>
+<img src="https://raw.githubusercontent.com/israa-abdelaal/israa-abdelaal/main/MSSQL_SSMS_21_icon.png" width="40"/>
   <img src="https://logo.svgcdn.com/logos/microsoft-power-bi.svg" alt="Power BI Logo" width="40" />
  <img src="https://raw.githubusercontent.com/israa-abdelaal/israa-abdelaal/main/Microsoft_Office_Excel_(2025–present).svg" width="40"/>
 </p>
