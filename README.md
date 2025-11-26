@@ -48,15 +48,16 @@ Advanced SQL queries (Joins, CTEs, Window Functions) to answer business question
 <div align="center">
 
 ### GitHub Statistics
-![GitHub Stats](https://israa-abdelaal-diyq2i80w-israa-abdelaals-projects.vercel.app/api?username=israa-abdelaal&count_private=true&show_icons=true&hide_title=true)
+![GitHub Stats](https://israa-abdelaal-git-main-israa-abdelaals-projects.vercel.app/api?username=israa-abdelaal&count_private=true&show_icons=true&hide_title=true)
 
 ### Most Used Languages
-![Top Languages](https://israa-abdelaal-diyq2i80w-israa-abdelaals-projects.vercel.app/api/top-langs/?username=israa-abdelaal&layout=compact&langs_count=8)
+![Top Languages](https://israa-abdelaal-git-main-israa-abdelaals-projects.vercel.app/api/top-langs/?username=israa-abdelaal&layout=compact&langs_count=8)
 
 ### GitHub Streak
 ![GitHub Streak](https://streak-stats.demolab.com/?user=israa-abdelaal&theme=default)
 
 </div>
+
 
 
 
