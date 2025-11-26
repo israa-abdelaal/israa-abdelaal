@@ -46,14 +46,14 @@ Advanced SQL queries (Joins, CTEs, Window Functions) to answer business question
 
 ## 📊 GitHub Stats
 
+## 📊 GitHub Stats
+
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=israa-abdelaal&show_icons=true&hide_title=false&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=israa-abdelaal&layout=compact&hide_border=true)
-![GitHub Streak](https://streak-stats.demolab.com/?user=israa-abdelaal&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=israa-abdelaal)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=israa-abdelaal)
 
 </div>
-
 ---
 
 ## 🤝 Connect with Me
