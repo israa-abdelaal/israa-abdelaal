@@ -44,9 +44,10 @@ Advanced SQL queries (Joins, CTEs, Window Functions) to answer business question
 
 ## 📊 GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=israa-abdelaal&show_icons=true&theme=react" height="160">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=israa-abdelaal&layout=compact&theme=react" height="160">
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=israa-abdelaal&show_icons=true&theme=radical&hide_border=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=israa-abdelaal&layout=compact&theme=radical&hide_border=true" height="165" />
+</p>
 
 
 
