@@ -46,9 +46,9 @@ Advanced SQL queries (Joins, CTEs, Window Functions) to answer business question
 
 ## 📊 GitHub Stats
 
-![Israa's GitHub stats](https://github-readme-stats.vercel.app/api?username=israa-abdelaal&show_icons=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=israa-abdelaal&layout=compact)
----
+![Israa's GitHub stats](https://github-readme-stats.vercel.app/api?username=israa-abdelaal&show_icons=true&include_all_commits=true&cache_seconds=7200)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=israa-abdelaal&layout=compact&cache_seconds=7200)
 
 ## 🤝 Connect with Me
 
