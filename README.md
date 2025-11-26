@@ -42,13 +42,19 @@ Advanced SQL queries (Joins, CTEs, Window Functions) to answer business question
 
 ✨ *I can help you highlight these projects when you upload them.*
 
+
 ## 📊 GitHub Stats
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=israa-abdelaal&show_icons=true&hide_border=true)
-<br>
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=israa-abdelaal&layout=compact&hide_border=true)
+### GitHub Statistics
+![Israa's GitHub stats](https://github-readme-stats.vercel.app/api?username=israa-abdelaal&show_icons=true&hide_title=true)
+
+### Most Used Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=israa-abdelaal&layout=compact&langs_count=8)
+
+### Streak Stats
+![GitHub Streak](https://github-readme-stats.vercel.app/api/wakatime?username=israa-abdelaal)
 
 </div>
 
