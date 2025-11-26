@@ -48,8 +48,8 @@ Advanced SQL queries (Joins, CTEs, Window Functions) to answer business question
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=israa-abdelaal&show_icons=true&hide_title=false&hide_border=true&theme=react" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=israa-abdelaal&layout=compact&hide_border=true&theme=react" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api?username=israa-abdelaal&show_icons=true&theme=default&hide_border=true" height="160" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=israa-abdelaal&layout=compact&theme=default&hide_border=true" height="160" alt="Top Languages" />
 </p>
 
 
