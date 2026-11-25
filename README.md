@@ -44,7 +44,7 @@ Power BI dashboard comparing sales, payment methods and best-selling products ac
 ### Hajj Pilgrim Numbers: Data Scraping and Cleaning (Python)
 Python notebook that pulls the public Hajj pilgrim statistics table from Wikipedia, cleans it with pandas and charts local, foreign and total pilgrim numbers over time.
 
-**Highlights:** web scraping with requests and BeautifulSoup, 41 yearly records (1920 to 2024), cleaned and typed columns, summary statistics, line chart, exported to Excel.<br>
+**Highlights:** web scraping with requests and BeautifulSoup, 43 yearly records (1920 to 2026), missing years kept blank, not filled with zero, cleaned and typed columns, summary statistics, line chart, exported to Excel.<br>
 **Tools:** Python, pandas, Matplotlib, BeautifulSoup<br>
 [View the notebook](https://github.com/israa-abdelaal/israa-abdelaal/blob/main/Hajj.ipynb)
 
@@ -74,6 +74,3 @@ Python notebook that pulls the public Hajj pilgrim statistics table from Wikiped
 ## Open to freelance work
 
 Dashboard design, reporting and data cleaning projects. Email me at Israamohamed373@gmail.com.
-
-
-
