@@ -15,8 +15,8 @@
 
 <p align="center">
   <a href="mailto:Israamohamed373@gmail.com"><img src="https://img.shields.io/badge/Email-Contact_me-444444?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
-  <!-- ADD when you have the right URLs, then delete this line:
-  <a href="LINKEDIN_URL"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://www.linkedin.com/in/israametwally"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <!-- ADD when you have the Upwork URL, then delete this line:
   <a href="UPWORK_URL"><img src="https://img.shields.io/badge/Upwork-Hire_me-14A800?style=flat-square&logo=upwork&logoColor=white" alt="Upwork" /></a>
   -->
 </p>
@@ -74,7 +74,6 @@ Python notebook that pulls the public Hajj pilgrim statistics table from Wikiped
 ## Open to freelance work
 
 Dashboard design, reporting and data cleaning projects. Email me at Israamohamed373@gmail.com.
-
 
 
 
